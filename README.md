@@ -42,10 +42,3 @@ The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/hijest/gen
 
 
 ---
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/your-username/movie-genre-classifier.git
-cd movie-genre-classifier
-pip install -r requirements.txt
