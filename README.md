@@ -27,6 +27,7 @@ The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/hijest/gen
 ## 🧠 Features
 
 - **TF-IDF** based feature extraction (`unigrams` and `bigrams`)
+- **BERT** bert embedings are also tested 
 - **Label encoding** for genre targets
 - **Multiple classifiers** trained and compared
 - Evaluation using `accuracy`, `precision`, `recall`, and `F1-score`
